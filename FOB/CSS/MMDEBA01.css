@@ -1,0 +1,20 @@
+﻿.mmdeba01-container {
+	padding-top: 10px;
+}
+
+.mmdeba01-titulo {
+	font-size: 1.25rem;
+	font-weight: 600;
+	margin-bottom: 5px;
+}
+
+.mmdeba01-subtitulo {
+	font-size: 1rem;
+	font-weight: 500;
+	margin-bottom: 8px;
+}
+
+.mmdeba01-texto {
+	font-size: 0.95rem;
+	margin-bottom: 10px;
+}
